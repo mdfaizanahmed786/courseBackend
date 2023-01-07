@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "courseName":"HTML",
+        "courseDescription":"HTML is a markup language for creating web pages and web applications. With Cascading Style Sheets and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.",
+        "courseImage":"https://www.w3schools.com/html/html5_intro.asp",
+        "coursePrice":500,
+        "poorPrice":100
+
+
+    },
+    {
+        "id":2,
+        "courseName":"React",
+        "courseDescription":"React is a ui frontend framework used to build amazing applications..",
+        "courseImage":"https://www.w3schools.com/html/html5_intro.asp",
+        "coursePrice":1000,
+        "poorPrice":400
+
+
+    },
+    {
+        "id":3,
+        "courseName":"JavaScript",
+        "courseDescription":"JavaScript often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices..",
+        "courseImage":"https://www.w3schools.com/html/html5_intro.asp",
+        "coursePrice":900,
+        "poorPrice":300
+
+
+    },
+    {
+        "id":4,
+        "courseName":"C++",
+        "courseDescription":"C++ is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language.The language has expanded significantly over time, and modern C++ now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM, so it is available on many platforms.",
+        "courseImage":"https://www.w3schools.com/html/html5_intro.asp",
+        "coursePrice":1000,
+        "poorPrice":400
+
+
+    },
+    {
+        "id":5,
+        "courseName":"Python",
+        "courseDescription":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.[35] Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision not completely backward-compatible with earlier versions. Python 2.7.18, released in 2020, was the last release of Python 2",
+        "courseImage":"https://www.w3schools.com/html/html5_intro.asp",
+        "coursePrice":1500,
+        "poorPrice":900
+
+
+    }
+]
