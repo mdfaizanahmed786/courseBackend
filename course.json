@@ -1,52 +1,52 @@
 [
     {
         "id":1,
-        "courseName":"HTML",
-        "courseDescription":"HTML is a markup language for creating web pages and web applications. With Cascading Style Sheets and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.",
-        "courseImage":"https://www.w3schools.com/html/html5_intro.asp",
-        "coursePrice":500,
-        "poorPrice":100
+        "courseName":"Maths",
+        "courseDescription":"Mathematics is an area of knowledge that includes the topics of numbers, formulas and related structures, shapes and the spaces in which they are contained, and quantities and their changes. These topics are represented in modern mathematics with the major subdisciplines of number theory, algebra, geometry, and analysis,respectively. There is no general consensus among mathematicians about a common definition for their academic discipline.",
+        "courseImage":"https://cdn.pixabay.com/photo/2017/08/25/17/47/doll-2680904__340.jpg"
+       
 
 
     },
     {
         "id":2,
-        "courseName":"React",
-        "courseDescription":"React is a ui frontend framework used to build amazing applications..",
-        "courseImage":"https://www.w3schools.com/html/html5_intro.asp",
-        "coursePrice":1000,
-        "poorPrice":400
-
+        "courseName":"Science",
+        "courseDescription":"Science has no single origin. Rather, scientific methods emerged gradually over the course of thousands of years, taking different forms around the world, and few details are known about the very earliest developments. Some of the earliest evidence for scientific reasoning is tens of thousands of years old,[36] and women likely played a central role in prehistoric science,[37] as did religious rituals. Some Western authors have dismissed these efforts.",
+        "courseImage":"https://static.scientificamerican.com/blogs/cache/file/5563E220-FF2F-435E-A5283B8EEF56BA97_source.jpg?w=590&h=800&AB6D87AD-580E-4BC8-AA457C693205AB2E"
+    
 
     },
     {
         "id":3,
-        "courseName":"JavaScript",
+        "courseName":"Social",
         "courseDescription":"JavaScript often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices..",
-        "courseImage":"https://www.w3schools.com/html/html5_intro.asp",
-        "coursePrice":900,
-        "poorPrice":300
+        "courseImage":"https://media.istockphoto.com/id/1371150277/photo/high-angle-view-of-unrecognizable-boy-draw-the-planet-earth-with-people.jpg?b=1&s=612x612&w=0&k=20&c=l4avqcVMj6z27azlAGhfv4HjUvRkl5dH-Fi_tlE-VGM="
+       
 
 
     },
     {
         "id":4,
-        "courseName":"C++",
-        "courseDescription":"C++ is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language.The language has expanded significantly over time, and modern C++ now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM, so it is available on many platforms.",
-        "courseImage":"https://www.w3schools.com/html/html5_intro.asp",
-        "coursePrice":1000,
-        "poorPrice":400
-
+        "courseName":"Spoken English",
+        "courseDescription":"English is a West Germanic language of the Indo-European language family, with its earliest forms spoken by the inhabitants of early medieval England.[3][4][5] It is named after the Angles, one of the ancient Germanic peoples that migrated to the island of Great Britain. Existing on a dialect continuum with Scots, and then most closely related to the Low German and Frisian languages, English is genealogically West Germanic.",
+        "courseImage":"https://www.w3schools.com/html/html5_intro.asp"
+        
 
     },
     {
         "id":5,
-        "courseName":"Python",
-        "courseDescription":"Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.[35] Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision not completely backward-compatible with earlier versions. Python 2.7.18, released in 2020, was the last release of Python 2",
-        "courseImage":"https://www.w3schools.com/html/html5_intro.asp",
-        "coursePrice":1500,
-        "poorPrice":900
+        "courseName":"Introduction to Programming",
+        "courseDescription":"Computer programming is the process of performing a particular computation (or more generally, accomplishing a specific computing result), usually by designing and building an executable computer program. Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms (usually in a chosen programming language, commonly referred to as coding) The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.",
+        "courseImage":"https://images.pexels.com/photos/4709289/pexels-photo-4709289.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+       
 
 
+    },
+
+    {
+        "id":6,
+        "courseName":"Abacus",
+        "courseDescription":"The abacus (plural abaci or abacuses), also called a counting frame, is a calculating tool which has been used since ancient times. It was used in the ancient Near East, Europe, China, and Russia, centuries before the adoption of the Hindu-Arabic numeral system.[1] The exact origin of the abacus has not yet emerged. It consists of rows of movable beads, or similar objects, strung on a wire. They represent digits. One of the two numbers is set up, and the beads are manipulated to perform an operation such as addition, or even a square or cubic root",
+        "courseImage":"https://images.pexels.com/photos/6692923/pexels-photo-6692923.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
 ]
